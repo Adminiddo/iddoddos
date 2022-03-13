@@ -1,5 +1,5 @@
 # EVO REPOEBLIC OF DDOS
-# Kaka-Zy 17022004
+# IDDO X-PLOID 17022004
 
 import urllib2
 import sys
@@ -73,7 +73,7 @@ def usage():
   /////////////////////////////////////////
   ////////////////////////////////////////
   //                                  ///
-  //       MADE WITH KAKA ZY         ///
+  //       MADE WITH IDDO X-PLOID    ///
   //     EVO REPOEBLIC OF DDOS      ///
   //                               ///
   ///////////////////////////////////
@@ -82,7 +82,7 @@ def usage():
 -->
 """
     print "\033[1;91mUSAGE: python2 evo.py " "<url>"
-    print "\033[1;91mOWNER: Kaka-Zy"
+    print "\033[1;91mOWNER: IDDO X-PLOID"
     print "\033[1;91m<Port 80 With 65000 Packets for 99999>"
 
 # http request
