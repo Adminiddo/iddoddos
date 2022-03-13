@@ -1,5 +1,5 @@
 # EVO REPOEBLIC OF DDOS
-# Kaka-Zy 17022004
+# IDDO X-PLOID 17022004
 
 import urllib2
 import sys
