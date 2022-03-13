@@ -12,7 +12,7 @@ Tools ini dibuat untuk ddos web terlarang jadi harap untuk menggunakan sebijak m
 $ pkg install python2 -y
 $ pkg install git -y
 $ git clone https://github.com/Adminiddo/iddoddos
-$ cd anjay
+$ cd iddoddos
 $ python2 evo.py
 $ python2 evo.py <url>
 untuk menghentikan ddos "ctrl+z"
